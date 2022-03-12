@@ -1,6 +1,15 @@
 {
-  "dependencies": {
-    "popmotion": "^11.0.3",
-    "stylefire": "^7.0.3"
-  }
+    "name": "gallery-library",
+    "source": "src/index.html",
+    "dependencies": {
+        "stylefire": "7.0.3"
+    },
+    "browserslist": "> 0.5%, last 2 versions, not dead",
+    "scripts": {
+        "start": "parcel",
+        "build": "parcel build"
+    },
+    "devDependencies": {
+        "parcel": "2.3.2"
+    }
 }
