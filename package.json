@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "popmotion": "^11.0.3",
+    "stylefire": "^7.0.3"
+  }
+}
